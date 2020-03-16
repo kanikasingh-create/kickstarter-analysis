@@ -1,4 +1,4 @@
 # An Analysis of Kickstarter Campaigns
-## Establishing whether outcomes of croudfunded fundraising campaigns in the entertaiment industry are impacted by factors such as goal amounts, launch dates, and entertainment categories.
-*
+## This study establishes whether outcomes of crowdfunded campaigns are impacted by factors such as goal amounts and dates, or whether some crowdfunding campaigns are limited in their scope to be successful from the start.
+* An analysis of subcategory statistics shows us that crowdfunding campaigns are most successful for plays.
 ### Challenge
