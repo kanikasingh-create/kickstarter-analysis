@@ -9,4 +9,5 @@
 ![MyImage](outcomesbasedongoal.png)
 * Launch dates for a kickstarter campaign can also impact whether or not it is successful. Outcomes for plays that have kickstarter campaigns launched in May are the most successful, while those launched between October and December tend to fail.
 ![MyImage](outcomesbasedonlaunchdate.png)
+* To gain more insight into how kickstarter campaigns are impacted, we could further dissect data to show which countries tend to have the most successful campaigns. This insight could help us establish whether there are countries that make better environments to crowdfund.
 * Based on these findings, while Louise's play Fever met its goal fairly quickly, we can see that 839 theater campaigns were successful, and that the best time to launch a campaign is in May. If others were to launch a theater project fundraising campaign in May with a goal between $1,000 and $10,000, they may be well-positioned for a successful outcome.
