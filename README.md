@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 ## This study establishes whether outcomes of crowdfunded campaigns are impacted by factors such as goal amounts and dates, or whether some crowdfunding campaigns are limited in their scope to be successful from the start.
 * An analysis of subcategory statistics shows us that crowdfunding campaigns are most successful for plays, and tend to be successful for photobook and rock campaigns. Campaigns tend to be unsuccessful or canceled altogether for videogame, animation, children's books and translation related efforts. For Louise's needs, our data helps us establish that seeking funding for her play is likely to encounter some success. 
-categoryoutcome.png
+![MyImage](categoryoutcome.png)
 ![subcategorystatistics](path/to/subcategorystatistics.png)
 * When assessing more statistical aspects of the data, we can see that successful campaigns for kickstarters in the US have a roughly $5,000 goal on average, while most kickstarters that are successful in the US tend to have a goal around $3,000. However, this is not to say that a $5,000 goal means success. Failed US kickstarters have, on average, a goal of $5,000.
 ### Challenge
